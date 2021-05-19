@@ -1,23 +1,23 @@
 {
-  "title": "<Dracula Yakin!>",
-  "description": "<Yura Toraki adalah seorang vampir yang hidup di zaman modern. Dia bekerja di sebuah toko swalayan di Ikebukuro hanya shift malam , dan tinggal di apartemen semi-basement yang hampir tidak terkena sinar matahari>",
-  "artist": "<Asakusa Kujuku>",
-  "author": "<Satoshi Wagahara>",
-  "cover": "<https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123411-fgnYT4AMNLrv.jpg>",
+  "title": "Dracula Yakin!",
+  "description": "Yura Toraki adalah seorang vampir yang hidup di zaman modern. Dia bekerja di sebuah toko swalayan di Ikebukuro hanya shift malam , dan tinggal di apartemen semi-basement yang hampir tidak terkena sinar matahari",
+  "artist": "Asakusa Kujuku",
+  "author": "Satoshi Wagahara",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123411-fgnYT4AMNLrv.jpg",
   "chapters": {
-    "<1>": {
-      "title": "<>",
-      "volume": "<1>",
+    "01": {
+      "title": "",
+      "volume": "1",
       "groups": {
-        "<Ashada-Moon Shrine>": "/proxy/api/imgur/chapter/<L4gJoze>/"
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/L4gJoze/"
       },
       "last_updated": "1617249729"
     },
-    "<2>": {
-      "title": "<>",
-      "volume": "<1>",
+    "02": {
+      "title": "",
+      "volume": "1",
       "groups": {
-        "<Ashada-Moon Shrine>": "/proxy/api/imgur/chapter/<MkhEtVk>/"
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/MkhEtVk/"
       },
       "last_updated": "1620805090"
     }
