@@ -1,0 +1,57 @@
+{
+  "title": "Kimi no Koe",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://cdn.novelupdates.com/images/2021/04/Ryuu-Kusari-no-Ori-Kokoro-no-Uchi-no-Kokoro.jpg",
+  "chapters": {
+    "1": {
+      "title": "Ini Mungkin Yang Disebut Dengan Takdir",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/Cvigr2M/"
+      },
+      "last_updated": "1612750071"
+    },
+    "2": {
+      "title": "Kasih Sayang Datang Terlambat",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/SDHYQbC/"
+      },
+      "last_updated": "1615169271"
+    },
+    "3": {
+      "title": "Wanita Yang Melihat Dan Pria Yang Mendengar",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/QM9u7aM/"
+      },
+      "last_updated": "1618376871"
+    },
+    "4": {
+      "title": "Jika Suara Ini",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/3W39qKj/"
+      },
+      "last_updated": "1621500643"
+    },
+    "5": {
+      "title": "Jika Suara Itu",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/3W39qKj/"
+      },
+      "last_updated": "1621500643"
+    },
+    "5.5": {
+      "title": "extra",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/3W39qKj/"
+      },
+      "last_updated": "1621500643"
+    }
+  }
+}
