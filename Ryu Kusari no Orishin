@@ -60,6 +60,22 @@
         "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/XXxhtyl/"
       },
       "last_updated": "1629145950"
+    },
+    "7": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/AGMvkZD/"
+      },
+      "last_updated": "1633642938"
+    },
+    "8": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/61C8qaA/"
+      },
+      "last_updated": "1633655108"
     }
   }
 }
