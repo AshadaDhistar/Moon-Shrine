@@ -1,0 +1,33 @@
+{
+  "title": "Koyoi, Lorenzi-ke de Kanbi Naru Chuusei wo",
+  "description": "",
+  "artist": "Yatsuhashi Hachi",
+  "author": "Fukami Aki",
+  "cover": "https://uploads.mangadex.org/covers/011a438a-1984-46e8-aa96-76cdf3f8fa12/0ec99bbd-d53c-4a18-a94e-2218e0c8d227.jpg",
+  "chapters": {
+    "0": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/FStwq7L/"
+      },
+      "last_updated": "1632391628"
+    },
+    "1": {
+      "title": "Drama pelarian dengan tembakan",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/fq1ix02/"
+      },
+      "last_updated": "1632431701"
+    },
+    "2": {
+      "title": "Gadis dengan Mata Emas",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/w8l7mHu/"
+      },
+      "last_updated": "1633208041"
+    }
+  }
+}
