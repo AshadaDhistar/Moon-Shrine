@@ -79,11 +79,19 @@
     },
     "09": {
       "title": "Eskapisme",
-      "volume": "",
+      "volume": "2",
       "groups": {
         "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/XlKnLio/"
       },
       "last_updated": "1636231974"
+    },
+    "10": {
+      "title": "Jawaban",
+      "volume": "2",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/iwh1mru/"
+      },
+      "last_updated": "1637615044"
     }
   }
 }
