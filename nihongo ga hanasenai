@@ -100,6 +100,38 @@
         "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/BVDY57C/"
       },
       "last_updated": "1638134620"
+    },
+    "13": {
+      "title": "Perasaan Tina",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/Wq54auy/"
+      },
+      "last_updated": "1646775622"
+    },
+    "14": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/BAzriXK/"
+      },
+      "last_updated": "1646775622"
+    },
+    "15": {
+      "title": "Perasaan Tina",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/u1Wasx3/"
+      },
+      "last_updated": "1646775622"
+    },
+    "16": {
+      "title": "Bersama",
+      "volume": "1",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/mCtXpKJ/"
+      },
+      "last_updated": "1646775622"
     }
   }
 }
