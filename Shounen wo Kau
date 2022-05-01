@@ -151,11 +151,19 @@
     },
     "17": {
       "title": "Kehangatan yang Diterangi",
-      "volume": "3",
+      "volume": "4",
       "groups": {
         "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/TIE44iy/"
       },
       "last_updated": "1649367307"
+    },
+    "18": {
+      "title": "Anak yang Tersesat",
+      "volume": "4",
+      "groups": {
+        "Ashada-Moon Shrine": "/proxy/api/imgur/chapter/xWEmOgV/"
+      },
+      "last_updated": "1651438817"
     }
   }
 }
